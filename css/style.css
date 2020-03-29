@@ -1,0 +1,15 @@
+.item-div {
+  color: grey;
+  font-style: italic;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  padding: 10px;
+  width: 70%;
+  height: 100px;
+  margin: 5px;
+  border: 1px solid lightslategray;
+}
+
+.buttons-item-div {
+  margin-top: 20px;
+}
